@@ -1,0 +1,20 @@
+# Config files with sensitive information
+config.json
+.env
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+
+# IDE files
+.vscode/
+.idea/
+
+# Log files
+*.log
+
